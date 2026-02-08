@@ -1,6 +1,7 @@
 # HiFloat8
 
-HiFloat8: High-Performance Float8 Quantization Library
+HiFloat8: High-Performance HiFloat8 Quantization Library.
+
 HiFloat8 is a library designed for efficient Float8 quantization and simulation across different hardware backends, including NVIDIA CUDA and Huawei Ascend NPU. It provides high-performance kernels for pseudo-quantization, enabling researchers to simulate HiFloat8 precision in deep learning models.
 
 Installation & Verification
